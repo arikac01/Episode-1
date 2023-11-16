@@ -1,0 +1,6 @@
+#root,h1{
+    color: brown;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 50%;
+}
